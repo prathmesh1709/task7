@@ -1,3 +1,3 @@
 # Task 7
 
-This is my third task given by our mentor Khushboo Bajaj.
+This is my Seven task given by our mentor.
